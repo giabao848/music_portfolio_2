@@ -155,7 +155,7 @@ window.DATA = {
    "tag": "AI và Prompt",
    "sum": "So sánh 3 cấp độ Prompt trên ChatGPT cho 3 tác vụ học tập môn Âm nhạc.",
    "tools": [
-    "ChatGPT",
+    "Gemini",
     "Kỹ thuật viết Prompt",
     "Chụp màn hình"
    ],
@@ -258,7 +258,6 @@ window.DATA = {
      "d": "Phân công nhóm, quay màn hình thao tác trên hai công cụ, thêm phụ đề, đồ họa và hiệu ứng chuyển cảnh."
     }
    ],
-   "pdf": "image/bai5.pdf",
    "lesson": "Mình hiểu hơn cách dùng ChatGPT và Suno AI như trợ lý để lên ý tưởng bài giảng và làm học liệu sinh động, nhưng không nên sao chép hoàn toàn mà cần kết hợp kiến thức chuyên môn và tư duy phản biện.",
    "hard": "Khó nhất là viết câu lệnh để AI trả về kết quả đúng trọng tâm sư phạm, hợp tâm lý học sinh tiểu học, cùng việc phối hợp quay dựng video cho mạch lạc.",
    "next": "Nhóm sẽ viết câu lệnh chi tiết ngay từ đầu, thử thêm tính năng nâng cao và dành thời gian dựng hậu kỳ hợp lý hơn.",
