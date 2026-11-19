@@ -192,50 +192,52 @@ window.DATA = {
    "next": "Mình sẽ đưa sẵn 1–2 ví dụ mẫu mang tính sư phạm ngay từ đầu, yêu cầu kiểm tra chéo nguồn và tinh chỉnh qua nhiều lượt hội thoại."
   },
   {
-   "title": "Sử dụng công cụ hợp tác trực tuyến cho dự án nhóm",
-   "tag": "Hợp tác trực tuyến",
-   "sum": "Phối hợp nhóm bằng Trello, Google Docs và Google Meet để thiết kế tiết dạy Âm nhạc.",
-   "tools": [
-    "Trello",
+  "title": "Sử dụng công cụ hợp tác trực tuyến cho dự án nhóm",
+  "tag": "Hợp tác trực tuyến",
+  "sum": "Phối hợp nhóm qua Google Meet, Google Docs và Google Drive để lên kịch bản, sản xuất video Ứng dụng AI vào giáo dục Âm nhạc tiểu học.",
+  "tools": [
     "Google Meet",
     "Google Docs",
-    "Google Drive"
-   ],
-   "goals": [
-    "Lập kế hoạch và phân công công việc minh bạch bằng bảng quản lý trực tuyến như Trello.",
-    "Cùng biên soạn tài liệu theo thời gian thực bằng Google Docs và Google Drive.",
-    "Duy trì trao đổi, theo dõi tiến độ và kịp thời tháo gỡ vướng mắc của nhóm."
-   ],
-   "steps": [
+    "Google Drive",
+    "ChatGPT",
+    "Gemini",
+    "Canva",
+    "CapCut"
+  ],
+  "goals": [
+    "Họp trực tuyến thống nhất ý tưởng, khung kịch bản và phân công nhiệm vụ rõ ràng cho 5 thành viên.",
+    "Cùng biên soạn lời thoại, kịch bản phân cảnh và tổng hợp tư liệu minh họa trực tuyến.",
+    "Theo dõi tiến độ quay dựng, kiểm duyệt nội dung AI và hoàn thiện sản phẩm đúng hạn."
+  ],
+  "steps": [
     {
-     "t": "Khởi tạo không gian làm việc",
-     "d": "Tạo bảng Trello với các cột Cần làm, Đang làm, Hoàn thành, xác định chủ đề tiết dạy Âm nhạc và gắn thẻ nhiệm vụ cho từng thành viên."
+      "t": "Họp trực tuyến chốt ý tưởng và phân công",
+      "d": "Tổ chức họp trên Google Meet trong 30 phút để thống nhất chủ đề video, chốt khung kịch bản 3 phần và phân chia vai trò cho từng thành viên."
     },
     {
-     "t": "Họp trực tuyến thống nhất ý tưởng",
-     "d": "Trao đổi qua Google Meet để chốt cấu trúc bài giảng, chọn làn điệu dân ca minh họa và quy chuẩn lưu trữ trên Google Drive."
+      "t": "Soạn kịch bản và chuẩn bị tư liệu AI",
+      "d": "Dùng Google Docs viết chi tiết lời thoại, phân cảnh; sử dụng ChatGPT, Gemini và công cụ tạo âm thanh/hình ảnh để chuẩn bị ví dụ minh họa cho tiết học Âm nhạc tiểu học."
     },
     {
-     "t": "Cùng biên soạn và phản hồi chéo",
-     "d": "Soạn kịch bản trên Google Docs, chèn âm thanh đệm đàn và dùng Comment để rà soát lỗi chuyên môn cho nhau."
+      "t": "Quay hình và lưu trữ tập trung",
+      "d": "Quay các phân cảnh theo kịch bản đã duyệt, tải toàn bộ source video gốc, file âm thanh và hình ảnh lên thư mục chung trên Google Drive để dễ quản lý."
     },
     {
-     "t": "Kiểm tra tiến độ và hoàn thiện",
-     "d": "Cập nhật trạng thái các thẻ công việc, tổng hợp giáo án, slide trình chiếu và bản thu âm thành bộ hồ sơ dự án."
+      "t": "Hậu kỳ, duyệt bản nháp và hoàn thiện",
+      "d": "Cắt ghép, chèn hiệu ứng bằng CapCut và Canva; cả nhóm cùng xem lại bản nháp, góp ý chỉnh sửa lỗi trước khi xuất file video hoàn chỉnh."
     }
-   ],
-   "pdf": "image/bai4.pdf",
-   "lesson": "Công cụ quản lý dự án giúp cả nhóm nhìn rõ bức tranh tổng thể, tránh chồng chéo hoặc bỏ sót đầu việc. Lưu trữ tập trung cũng giúp tổng hợp bản nhạc, âm thanh và giáo án nhanh hơn.",
-   "hard": "Một số thành viên chưa quen cập nhật trạng thái công việc nên trưởng nhóm khó nắm tiến độ, và việc chọn giờ họp chung cũng khó vì lịch tập đàn và lịch học.",
-   "next": "Mình sẽ đề xuất dành 10 phút đầu hướng dẫn công cụ, thống nhất quy tắc cập nhật cuối ngày và dùng bình luận trực tiếp trên tài liệu để bớt họp."
-  },
+  ],
+  "pdf": "image/bai4.pdf",
+  "lesson": "Việc họp chốt kịch bản khung ngay từ đầu và phân công theo thế mạnh từng người giúp nhóm triển khai mạch lạc, tránh lan man về kỹ thuật. Lưu trữ tư liệu tập trung cũng giúp khâu dựng video diễn ra nhanh chóng và đồng bộ hơn.",
+  "hard": "Lịch học và lịch tập luyện của 5 thành viên không trùng nhau nên việc sắp xếp giờ họp và lịch quay chung mất nhiều thời gian trao đổi; đồng thời cần rà soát kỹ các nội dung do AI tạo ra để đảm bảo tính sư phạm cho bậc tiểu học.",
+  "next": "Mình sẽ đề xuất chia nhỏ các cụm cảnh để thành viên linh hoạt tự quay theo nhóm nhỏ cho kịp tiến độ, kết hợp nhận xét trực tiếp trên Google Docs để hạn chế phải họp nhiều lần."
+},
   {
    "title": "Sử dụng AI tạo sinh để hỗ trợ sáng tạo nội dung",
    "tag": "AI tạo sinh",
    "sum": "Dùng ChatGPT và Suno AI tạo học liệu, bài hát thiếu nhi và video minh họa.",
    "tools": [
     "ChatGPT",
-    "Suno AI",
     "Capcut",
     "YouTube"
    ],
@@ -258,7 +260,7 @@ window.DATA = {
      "d": "Phân công nhóm, quay màn hình thao tác trên hai công cụ, thêm phụ đề, đồ họa và hiệu ứng chuyển cảnh."
     }
    ],
-   "lesson": "Mình hiểu hơn cách dùng ChatGPT và Suno AI như trợ lý để lên ý tưởng bài giảng và làm học liệu sinh động, nhưng không nên sao chép hoàn toàn mà cần kết hợp kiến thức chuyên môn và tư duy phản biện.",
+   "lesson": "Mình hiểu hơn cách dùng ChatGPT như trợ lý để lên ý tưởng bài giảng và làm học liệu sinh động, nhưng không nên sao chép hoàn toàn mà cần kết hợp kiến thức chuyên môn và tư duy phản biện.",
    "hard": "Khó nhất là viết câu lệnh để AI trả về kết quả đúng trọng tâm sư phạm, hợp tâm lý học sinh tiểu học, cùng việc phối hợp quay dựng video cho mạch lạc.",
    "next": "Nhóm sẽ viết câu lệnh chi tiết ngay từ đầu, thử thêm tính năng nâng cao và dành thời gian dựng hậu kỳ hợp lý hơn.",
    "video": "https://www.youtube.com/embed/lqHpRzbGWKI"

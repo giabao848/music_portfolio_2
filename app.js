@@ -43,7 +43,7 @@
       const f = sec("Về mình", "Thông tin cá nhân");
       const aboutGrid = el("div", "about-grid");
       const dl = el("dl", "facts");
-      [["Họ và tên", D.name], ["Ngành học", D.major], ["Trường", D.school], ["Lớp", D.cls], ["Học phần", D.course]].forEach(r => {
+      [["Họ và tên", D.name], ["MSV", D.id], ["Ngành học", D.major], ["Trường", D.school], ["Lớp", D.cls], ["Học phần", D.course]].forEach(r => {
         const row = el("div", "fr");
         add(row, el("dt", "", r[0]), el("dd", "", r[1]));
         dl.appendChild(row);
